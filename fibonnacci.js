@@ -46,5 +46,5 @@ function fibonacci(n) {
   
   console.log("All tests passed!");
   
-  // GitHub Link: [Your GitHub repository link here]
+  // GitHub Link: https://github.com/Maiko35/Test-First-TDD
   // Please replace [Your GitHub repository link here] with your actual GitHub repository URL.
